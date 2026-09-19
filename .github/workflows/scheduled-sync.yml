@@ -22,7 +22,7 @@ permissions:
   contents: read
 
 env:
-  DEFAULT_SYMBOLS: "BRENT oil"
+  DEFAULT_SYMBOLS: "BRENT OIL"
   HF_DATASET: Esmaeil9ss/Tickdata
 
 jobs:
